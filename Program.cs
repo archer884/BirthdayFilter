@@ -156,8 +156,8 @@ namespace BirthdayFilter
         /// Command enum, it will be necessary to change the signature for this method.
         /// Of course, this method could be discarded entirely should you so choose.
         /// </summary>
-        /// <param name="command"></param>
-        /// <param name="inputFilePath"></param>
+        /// <param name="command">command to be executed</param>
+        /// <param name="inputFilePath">file to be processed</param>
         /// <returns></returns>
         static IEnumerable<string> GetCommandOutput(Command command, string inputFilePath)
         {
