@@ -5,7 +5,7 @@ We've all been there--you get to school and you're all excited because the teach
 
 Sorry, Charlie.
 
-This program is for you. It's suppose to help your evil, evil third grade teacher figure out the best way to dole out candy year-round so that no one gets slighted. Because you remember that one chump teacher in *fourth* grade who swore to goat that everyone was going to get candy, dammit, and who then promptly forgot to hook up anyone with a surprise mid-school-year birthday until May 17th, at which point every kid got one lollipop and the equivalent of about one twentieth of a Happy Birthday Song (divided evenly among twenty brats, you see).
+This program is for you. It's supposed to help your evil, evil third grade teacher figure out the best way to dole out candy year-round so that no one gets slighted. Because you remember that one chump teacher in *fourth* grade who swore to goat that everyone was going to get candy, dammit, and who then promptly forgot to hook up anyone with a surprise mid-school-year birthday until May 17th, at which point every kid got one lollipop and the equivalent of about one twentieth of a Happy Birthday Song (divided evenly among twenty brats, you see).
 
 He tried. He failed.
 
